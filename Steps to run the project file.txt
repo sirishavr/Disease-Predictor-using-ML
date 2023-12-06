@@ -1,0 +1,14 @@
+1.Download all the files from mysite
+2.Make sure the venv ( virtual environment is installed ) 
+3.In case if venv is not installed follow the below steps:
+[ cd C:\Users\user\Desktop\UserDjangoProject> pip install virtualenv
+   For Create a venv run this : virtualenv -p python3 venv
+   Activate virtualenv : venv\Scripts\activate
+  ( It will look like this (venv) C:\Users\user\Desktop\UserDjangoProject> )
+   Then run pip install -r requirements.txt ]
+4.Run the manage.py file( Terminal opens )
+5.Run the 'cd mysite' command 
+6.Run the 'python manage.py runserver' command 
+7.Finally a website link will be generated 
+8.Ctrl+click to open the website & you can interact with the front end 
+ ( Make sure to  refer the snaps )
